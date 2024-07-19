@@ -11,3 +11,11 @@ export HTTP_PROXY="http://exbkojvm-rotate:xxebz9ewvo8s@p.webshare.io:80/"
 export https_proxy="http://exbkojvm-rotate:xxebz9ewvo8s@p.webshare.io:80/"
 export HTTPS_PROXY="http://exbkojvm-rotate:xxebz9ewvo8s@p.webshare.io:80/"
 
+## For Exploit2024
+
+
+wget https://github.com/xylozd/te/raw/main/API_MAC_SCANNER_FINAL.py
+wget https://github.com/xylozd/te/raw/main/XPLOITFUNCIONAL2024.py
+mkdir ./sdcard
+mkdir ./sdcard/HITS
+     
